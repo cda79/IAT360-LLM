@@ -1,2 +1,2 @@
 # IAT360-LLM
-Final Project - IAT360 - Spring term 2025
+Final Project - IAT360 - Fall term 2025
